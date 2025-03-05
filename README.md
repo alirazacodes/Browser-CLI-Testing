@@ -123,7 +123,7 @@ Here's an example of a successful test result:
   },
   "error_message": null,
   "returned_funds": true
-}%  
+}
 ```
 
 ## Verification of Test Results
